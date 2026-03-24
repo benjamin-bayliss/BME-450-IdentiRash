@@ -2,7 +2,7 @@
 IdentiRash 
 
 ## Team Members
-I do not know your guy's githubs
+benjamin-bayliss, gerniegalvan-prog, 
 
 ## Project Description 
 This project is meant to differentiate different rashes on skin. 
