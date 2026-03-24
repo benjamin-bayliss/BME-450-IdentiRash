@@ -2,7 +2,7 @@
 IdentiRash 
 
 ## Team Members
-benjamin-bayliss, gerniegalvan-prog, 
+benjamin-bayliss, gerniegalvan-prog, nacii999
 
 ## Project Description 
 This project is meant to differentiate different rashes on skin. 
